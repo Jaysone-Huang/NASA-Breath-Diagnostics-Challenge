@@ -1,7 +1,7 @@
 # NASA-Breath-Diagnostics-Challenge
 https://bitgrit.net/competition/22
+## Objective
 The objective of this challenge is to develop a diagnostic model by using NASA E-Nose data gathered from exhaled breath of 63 volunteers in a COVID-19 study.  Challenge participants will use advanced data preparation and AI techniques to overcome the limited sample size of subjects in the COVID-19 study.
-
 
 The data consists of 63 txt files representing the 63 patients, numbered 1 to 63.
 Each file contains the Patient ID, the COVID-19 Diagnosis Result (POSITIVE or NEGATIVE) and numeric measurements for 64 sensors, D1 to D64. These sensors are installed within the E-Nose device, and they each measure different molecular signals in the breath of the patients.
